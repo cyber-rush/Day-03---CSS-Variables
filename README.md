@@ -41,8 +41,5 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- This project was inspired by [insert inspiration here].
-- Special thanks to [insert names or resources] for their contributions or inspiration.
 
