@@ -1,4 +1,5 @@
 # Vanilla JS App with CSS Variables
+![App Preview](https://github.com/cyber-rush/Day-03---CSS-Variables/assets/66362774/ec0dbd04-7291-48cc-978d-36f027b48e4b)
 
 This is a simple web application that demonstrates the usage of vanilla JavaScript and CSS variables to dynamically change padding, color, and blur properties on elements.
 
