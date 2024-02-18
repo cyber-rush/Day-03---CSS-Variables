@@ -25,7 +25,7 @@ This is a simple web application that demonstrates the usage of vanilla JavaScri
 
 ## Demo
 
-Insert a GIF or a link to a live demo here.
+You can try the app live [here](https://day-03-css-variables.vercel.app/).
 
 ## Technologies Used
 
